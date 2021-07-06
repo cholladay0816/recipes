@@ -38,7 +38,7 @@
         "deployer/recipes": "self.version"
     },
     "require-dev": {
-        "deployer/deployer": "^6.3"
+        "deployer/deployer": "^7.0"
     },
     "require": {
         "php": "^7.0|^8.0"
